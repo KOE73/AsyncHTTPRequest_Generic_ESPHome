@@ -61,30 +61,6 @@
       "platforms": "ststm32"
     },
     {
-      "owner": "khoih-prog",
-      "name": "WebServer_WT32_ETH01",
-      "version": ">=1.5.1",
-      "platforms": ["espressif32"]
-    },
-    {
-      "owner": "khoih-prog",
-      "name": "WebServer_ESP32_ENC",
-      "version": ">=1.5.3",
-      "platforms": ["espressif32"]
-    },
-    {
-      "owner": "khoih-prog",
-      "name": "WebServer_ESP32_W5500",
-      "version": ">=1.5.3",
-      "platforms": ["espressif32"]
-    },
-    {
-      "owner": "khoih-prog",
-      "name": "WebServer_ESP32_W6100",
-      "version": ">=1.5.3",
-      "platforms": ["espressif32"]
-    },
-    {
       "name": "STM32AsyncTCP",
       "version": "https://github.com/khoih-prog/STM32AsyncTCP",
       "platforms": "ststm32"
